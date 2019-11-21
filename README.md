@@ -1,5 +1,5 @@
 # ETECRM
-end-to-end convolution regression model (ETECRM)
+end-to-end convolution regression model (ETECRM) for visual encoding based on fMRI data
 
 This code can reproduce the preprinted manuscript "Effective and efficient ROI-wise visual encoding using an end-to-end CNN regression model and selective optimization".
 https://arxiv.org/abs/1907.11885
